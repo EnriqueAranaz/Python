@@ -1,1 +1,1 @@
-Proyectos completos de Marchine Learning realizados en Python (Preparación de los datos, Feature selection, feature engineering, entrenamiento y evaluación de distintos modelos, etc.)  con explicaciones detalladas de los pasos. 
+Proyectos completos de Marchine Learning realizados en Python (Preparación de los datos, feature selection, feature engineering, entrenamiento y evaluación de distintos modelos, etc.)  con explicaciones detalladas de los pasos. 
