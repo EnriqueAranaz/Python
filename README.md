@@ -17,17 +17,17 @@ Para cualquier duda, sientete libre de contactarme en www.linkedin.com/in/enriqu
   - Feature engineering para crear nuevas características a partir de las existentes.
   - Normalización y escalado de datos para preparar los datos para algoritmos de machine learning.
   - División de datos en conjuntos de entrenamiento y prueba.
-  - 
+    
 4) Entrenamiento de modelos de machine learning:
 
   - Uso de bibliotecas de Spark para entrenar modelos de regresión, clasificación, clustering, redes neuronales, etc.
   - Evaluación de modelos utilizando métricas como precisión, recall, F1-score, etc.
   - Optimización de hiperparámetros para mejorar el rendimiento del modelo
-  - 
+    
 5) Implementación y monitoreo:
 
   - Despliegue de modelos en producción
-   - Monitoreo de modelos para asegurar que sigan funcionando correctamente y realizar ajustes si es necesario.
+  - Monitoreo de modelos para asegurar que sigan funcionando correctamente y realizar ajustes si es necesario.
 
 6) Automatización y orquestación:
 
