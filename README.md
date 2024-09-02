@@ -20,7 +20,7 @@ Para cualquier duda, sientete libre de contactarme en www.linkedin.com/in/enriqu
     
 4) Entrenamiento de modelos de machine learning:
 
-  - Uso de bibliotecas de Spark para entrenar modelos de regresión, clasificación, clustering, redes neuronales, etc.
+  - Uso de distintos modelos de ML de Python para predecir el churn (XGB Classifier, RandomForestClassifier, GradientBoosting, AdaBoostClasiffier, LogisticRegression).
   - Evaluación de modelos utilizando métricas como precisión, recall, F1-score, etc.
   - Optimización de hiperparámetros para mejorar el rendimiento del modelo
     
