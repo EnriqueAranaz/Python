@@ -32,3 +32,5 @@ Para cualquier duda, sientete libre de contactarme en www.linkedin.com/in/enriqu
 6) Automatización y orquestación:
 
 Creación de pipelines de datos y machine learning para automatizar el flujo de trabajo.
+
+INE_Extraccion_Gib.ipynb: En este notebook de python he diseñado un algoritmo para extraer datos del INE. En mi canal de medium, https://medium.com/@aranaz.enrique/pyhton-machine-learning-data-driven-b0e454dd508c , muestro como podemos utilizarlo y las ventajas que aporta.
